@@ -4,7 +4,8 @@
 
 This conversion can also include the fractional number.
 
-This project is simply about the conversion of a
+This project is simply about the conversion 
+
 1.fractional decimal number or decimal number to binary number 
 eg. 5= 101
 eg. 5.1= 101.00011
